@@ -1,4 +1,6 @@
-### Hi there 👋
+# DaftLink
+
+DaftLink est un service permettant de créer des chaines de partages. Pour le moment le service s'arrête à YouTube mais à l'avenir, il intégrera tous les services sociaux possédant une fonctionnalité de partage d'article / médias.
 
 <!--
 **daftlink/daftlink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
